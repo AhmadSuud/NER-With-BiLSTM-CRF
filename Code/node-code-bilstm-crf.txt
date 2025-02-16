@@ -1,0 +1,7 @@
+info!!
+
+file code bilstm-crf tidak bisa dijalankan jika environment tidak sesuai,
+maka dari itu jika mau menjalankan ulang code bisa mengirimkan
+id akun kaggle supaya langsung bisa dijalakann tanpa menyesuaikan 
+environment silahkan email kepada asuud2904@gmail.com
+untuk mengirim id kaggle jika ingin langsung dijalankan terimakasih
